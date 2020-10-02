@@ -1,16 +1,16 @@
-#Youtube Analyzer
+# Youtube Analyzer
 
-Developed with Python 3.8 
+Developed with Python 3.8
 
+#### Technologies
 
-####Technologies
-* Python > 3
-* google-api-python-client
-* Mongo DB
+Python > 3
+google-api-python-client
+Mongo DB
+#### Launch Firstly, create virtualenv and install requirements.
 
-####Launch
-Firstly, create virtualenv and install requirements.
-* source venv/bin/activate
-* pip install -r requirements.txt
+source venv/bin/activate
 
->python youtube_connector.py
+pip install -r requirements.txt
+
+python youtube_connector.py
