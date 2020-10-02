@@ -1,9 +1,10 @@
 #Youtube Analyzer
 
-Developed with Python 3.8
+Developed with Python 3.8 
+
 
 ####Technologies
-* Python 3.8
+* Python > 3
 * google-api-python-client
 * Mongo DB
 
